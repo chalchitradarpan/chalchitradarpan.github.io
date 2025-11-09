@@ -13,7 +13,7 @@ const Archives = () => {
 					<Grid item xs={12} sm={12} md={6} xl={4} className={styles.cover}>
 						<span className={styles.image__block} >
 							<img className={styles.image} src="edition19-20.png" alt="First edition" onClick={() => {
-								window.open('chalchitra-darpan-19-20.pdf')
+								window.open('Chalchitra Darpan(19-20) Urban Spaces.pdf')
 							}}>
 							</img>
 						</span>
@@ -24,7 +24,7 @@ const Archives = () => {
 					<Grid item xs={12} sm={12} md={6} xl={4} className={styles.cover}>
 						<span className={styles.image__block} >
 							<img className={styles.image} src="edition21-22.png" alt="Second edition" onClick={() => {
-								window.open('Chalchitra Darpan(21-22)- Sex & Horror.pdf')
+								window.open('Chalchitra Darpan(19-20) Sex & Horror.pdf')
 							}}>
 							</img>
 						</span>
@@ -35,7 +35,7 @@ const Archives = () => {
                     <Grid item xs={12} sm={12} md={6} xl={4} className={styles.cover}>
 						<span className={styles.image__block} >
 							<img className={styles.image} src="edition22-23.png" alt="Third edition" onClick={() => {
-								window.open('Chalchitra Darpan(22-23)- Cinema in Crisis.pdf')
+								window.open('Chalchitra Darpan(19-20) Cinema in Crsis.pdf')
 							}}>
 							</img>
 						</span>
@@ -43,6 +43,17 @@ const Archives = () => {
 							Third Edition (2022-23)
 						</span>
 					</Grid>
+                    <Grid item xs={12} sm={12} md={6} xl={4} className={styles.cover}>
+                        <span className={styles.image__block} >
+                            <img className={styles.image} src="edition24-25.png" alt="Fourth edition" onClick={() => {
+                                window.open('Chalchitra Darpan(24-25) Does Cinema Lie.pdf')
+                            }}
+                            />
+                        </span>
+                        <span className={styles.name}>
+                            Fourth Edition (2024-25)
+                        </span>
+                    </Grid>
 				</Grid>
 			</div>
 		</React.Fragment>
