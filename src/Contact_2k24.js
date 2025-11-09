@@ -31,9 +31,6 @@ const About2k24 = () => {
                         deevya.2022.286@mirandahouse.ac.in
 						</a>
 					</span>
-					<span>
-                    +91 8280199298
-					</span>
 				</Grid>
 				<Grid item xs={12} xl={6} className={styles.footer__block}>
 					<span className={styles.name}>
@@ -44,9 +41,6 @@ const About2k24 = () => {
 						<a className={styles.mailLink} href="mailto:asahaana.2022.969@mirandahouse.ac.in">
                         sahaana.2022.969@mirandahouse.ac.in
 						</a>
-					</span>
-					<span>
-					+91 9810100461
 					</span>
 				</Grid>
                 <Grid item xs={12} md={12} xl={12} className={styles.footer__block}>
