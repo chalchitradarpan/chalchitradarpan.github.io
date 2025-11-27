@@ -13,7 +13,7 @@ const Archives = () => {
 					<Grid item xs={12} sm={12} md={6} xl={4} className={styles.cover}>
 						<span className={styles.image__block} >
 							<img className={styles.image} src="edition19-20.png" alt="First edition" onClick={() => {
-								window.open('Chalchitra Darpan(19-20) Urban Spaces.pdf')
+								window.open("../public/Chalchitra Darpan(19-20) Urban Spaces.pdf", "_blank")
 							}}>
 							</img>
 						</span>
@@ -24,7 +24,7 @@ const Archives = () => {
 					<Grid item xs={12} sm={12} md={6} xl={4} className={styles.cover}>
 						<span className={styles.image__block} >
 							<img className={styles.image} src="edition21-22.png" alt="Second edition" onClick={() => {
-								window.open('Chalchitra Darpan(21-22) Sex & Horror.pdf')
+								window.open("../public/Chalchitra Darpan(21-22) Sex & Horror.pdf", "_blank")
 							}}>
 							</img>
 						</span>
@@ -35,7 +35,7 @@ const Archives = () => {
                     <Grid item xs={12} sm={12} md={6} xl={4} className={styles.cover}>
 						<span className={styles.image__block} >
 							<img className={styles.image} src="edition22-23.png" alt="Third edition" onClick={() => {
-								window.open('Chalchitra Darpan(22-23) Cinema in Crisis.pdf')
+								window.open("../public/Chalchitra Darpan(22-23) Cinema in Crisis.pdf", "_blank")
 							}}>
 							</img>
 						</span>
@@ -46,7 +46,7 @@ const Archives = () => {
                     <Grid item xs={12} sm={12} md={6} xl={4} className={styles.cover}>
                         <span className={styles.image__block} >
                             <img className={styles.image} src="edition24-25.png" alt="Fourth edition" onClick={() => {
-                                window.open('Chalchitra Darpan(24-25) Does Cinema Lie.pdf')
+                                window.open("../public/Chalchitra Darpan(24-25) Does Cinema Lie.pdf", "_blank")
                             }}
                             />
                         </span>
