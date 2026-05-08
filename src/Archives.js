@@ -24,7 +24,7 @@ const Archives = () => {
 					<Grid item xs={12} sm={12} md={6} xl={4} className={styles.cover}>
 						<span className={styles.image__block} >
 							<img className={styles.image} src="edition21-22.png" alt="Second edition" onClick={() => {
-								window.open("../public/Chalchitra Darpan(21-22) Sex & Horror.pdf", "_blank")
+								window.open("public/Chalchitra-Darpan21-22-Sex-and-Horror.pdf", "_blank")
 							}}>
 							</img>
 						</span>
