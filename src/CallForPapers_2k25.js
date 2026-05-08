@@ -127,8 +127,8 @@ const CallForPapers2k25 = () => {
 						<li>Said, Edward W — <b>Reflections on Exile and Other Essays</b> (Harvard University Press, 2000)</li>
 						<li>Saunders, Robert A — <b>Popular Geopolitics and Nation Branding in the Post-Soviet Realm</b> (Routledge, 2017)</li>
 						<li>Tuan, Yi-Fu — <b>Topophilia: A Study of Environmental Perception, Attitudes, and Values</b> (Columbia University Press, 1974)</li>
-						<li>Gray, Ros &amp; Eshun, Kodwo (eds.) — <b>The Militant Image: A Ciné-Geography</b> (Cambridge University, 2020) </li>
-						<li> <a href="https://www.mmll.cam.ac.uk/sites/default/files/the_militant_image_editors_introduction_0.pd" className={styles.link} target="_blank" rel="noreferrer">'https://www.mmll.cam.ac.uk/sites/default/files/the_militant_image_editors_introduction_0.pd'</a></li>
+						<li>Gray, Ros &amp; Eshun, Kodwo (eds.) — <b>The Militant Image: A Ciné-Geography</b> (Cambridge University, 2020) 
+						<br/> <a href="https://www.mmll.cam.ac.uk/sites/default/files/the_militant_image_editors_introduction_0.pd" className={styles.link} target="_blank" rel="noreferrer">'https://www.mmll.cam.ac.uk/sites/default/files/the_militant_image_editors_introduction_0.pd'</a> </li>
 					</ul>
 				</Grid>
 				<Grid container xs={12} className={styles.container}>
