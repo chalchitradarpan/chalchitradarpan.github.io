@@ -8,7 +8,7 @@ import Banner from './Banner';
 import TheTeam2k24 from './TheTeam_2k24';
 import About from './About';
 import Contact from './Contact_2k24';
-import CallForPapers from './CallForPapers_2k24';
+import CallForPapers from './CallForPapers_2k25';
 import Archives from './Archives';
 
 function App() {
