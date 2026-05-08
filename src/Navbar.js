@@ -35,12 +35,12 @@ const Navbar = () => {
         className={`${styles.navbar__buttonbar} ${open ? styles.active : ''} `}
       >
         <ul>
-					<a href="#/#About" className={styles.navbar__buttonLink} onClick={() => setOpen(false)}>
+					<a href="/#About" className={styles.navbar__buttonLink} onClick={() => setOpen(false)}>
 						<li className={styles.navbar__button}>
 							About
 						</li>
 					</a>
-          <a href="#/#theteam" className={styles.navbar__buttonLink} onClick={() => setOpen(false)}>
+          <a href="/#theteam" className={styles.navbar__buttonLink} onClick={() => setOpen(false)}>
 						<li className={styles.navbar__button}>
              Editorial Board
             </li>
@@ -50,12 +50,13 @@ const Navbar = () => {
              Archives
             </li>
 					</Link>
-          <Link to="/chalchitradarpan22_23" className={styles.navbar__buttonLink} onClick={pageChange}>
-						<li className={styles.navbar__button}>
-             Call for Papers<br/> (2024-25)
-            </li>
-					</Link>
-					<a href="#/#contactus" className={styles.navbar__buttonLink} onClick={() => setOpen(false)}>
+         <Link to="/chalchitradarpan24_25" className={styles.navbar__buttonLink} onClick={pageChange}>
+  
+					<li className={styles.navbar__button}>
+   							 Call for Papers<br/> (2025-26)
+  					</li>
+		</Link>
+					<a href="#contactus" className={styles.navbar__buttonLink} onClick={() => setOpen(false)}>
 						<li className={styles.navbar__button}>
              Contact Us
             </li>
