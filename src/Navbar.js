@@ -50,11 +50,12 @@ const Navbar = () => {
              Archives
             </li>
 					</Link>
-          <Link to="/chalchitradarpan22_23" className={styles.navbar__buttonLink} onClick={pageChange}>
-						<li className={styles.navbar__button}>
-             Call for Papers<br/> (2024-25)
-            </li>
-					</Link>
+         <Link to="/chalchitradarpan24_25" className={styles.navbar__buttonLink} onClick={pageChange}>
+  
+					<li className={styles.navbar__button}>
+   							 Call for Papers<br/> (2025-26)
+  					</li>
+		</Link>
 					<a href="#contactus" className={styles.navbar__buttonLink} onClick={() => setOpen(false)}>
 						<li className={styles.navbar__button}>
              Contact Us
