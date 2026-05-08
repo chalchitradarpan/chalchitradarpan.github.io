@@ -100,6 +100,9 @@ function App() {
                 <Route exact path="/chalchitradarpan22_23">
                   <CallForPapers/>
                 </Route>
+               <Route exact path="/chalchitradarpan24_25">
+                  <CallForPapers2k25/>
+                </Route>
                 <Route exact path="/archives">
                   <Archives/>
                 </Route>
