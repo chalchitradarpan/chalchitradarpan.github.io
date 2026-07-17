@@ -54,6 +54,17 @@ const Archives = () => {
                             Fourth Edition (2024-25)
                         </span>
                     </Grid>
+					<Grid item xs={12} sm={12} md={6} xl={4} className={styles.cover}>
+                        <span className={styles.image__block} >
+                            <img className={styles.image} src="edition25-26.png" alt="Fifth edition" onClick={() => {
+                                window.open("Chalchitra Darpan(25-26) Topophilia.pdf", "_blank")
+                            }}
+                            />
+                        </span>
+                        <span className={styles.name}>
+                            Fifth Edition (2025-26)
+                        </span>
+                    </Grid>			
 				</Grid>
 			</div>
 		</React.Fragment>
