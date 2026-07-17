@@ -44,7 +44,7 @@ const TheTeam2k25 = () => {
 				</Grid>
 				<Grid item xs={12} md={6} lg={4} className={styles.person}>
 					<span className={styles.image__block} >
-						<img className={styles.image} src="dummy_image.jpg" alt="Niveditha"></img>
+						<img className={styles.image} src="niveditha_editor.jpeg" alt="Niveditha"></img>
 					</span>
 					<span className={styles.name}>
 						Niveditha
