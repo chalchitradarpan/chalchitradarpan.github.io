@@ -33,7 +33,7 @@ const TheTeam2k25 = () => {
 				</Grid>
 				<Grid item xs={12} md={6} lg={4} className={styles.person}>
 					<span className={styles.image__block} >
-						<img className={styles.image} src="Konkona_editor.jpeg" alt="Konkona"></img>
+						<img className={styles.image} src="konkona_editor.jpeg" alt="Konkona"></img>
 					</span>
 					<span className={styles.name}>
 						Konkona
@@ -55,7 +55,7 @@ const TheTeam2k25 = () => {
 				</Grid>
 				<Grid item xs={12} md={6} lg={4} className={styles.person}>
 					<span className={styles.image__block} >
-						<img className={styles.image} src="priyadarshini_editor.jpg" alt="Priyadarshini"></img>
+						<img className={styles.image} src="priyadarshini_editor.jpeg" alt="Priyadarshini"></img>
 					</span>
 					<span className={styles.name}>
 						Priyadarshini
