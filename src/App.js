@@ -73,14 +73,14 @@ function App() {
                         transition: 'transform 0.2s ease',
                     }}
                     onClick={() =>
-                        window.open('Chalchitra Darpan(24-25) Does Cinema Lie.pdf')
+                        window.open('Chalchitra Darpan(25-26) Topophilia.pdf')
                     }
                     onMouseEnter={(e) => (e.currentTarget.style.transform = 'scale(1.02)')}
                     onMouseLeave={(e) => (e.currentTarget.style.transform = 'scale(1)')}
                     >
                     <img
-                        src="/edition24-25.png"
-                        alt="Fourth Edition Cover"
+                        src="/edition25-26.png"
+                        alt="Fifth Edition Cover"
                         style={{
                         width: '5%',
                         minWidth: '220px',
@@ -90,9 +90,9 @@ function App() {
                         }}
                     />
                     <em style={{ fontSize: '2.6rem', fontWeight: 500 }}>
-                        Does Cinema Lie?
+                        Topophilia: Geographies of Cinema
                     </em>{' '}
-                    Fourth Edition is live now
+                    Fifth Edition is live now
                   </div>
                   <About/>
                   <TheTeam2k24/>
