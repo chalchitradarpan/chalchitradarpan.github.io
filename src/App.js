@@ -5,7 +5,7 @@ import './App.css';
 import theme from './theme'
 import Navbar from './Navbar';
 import Banner from './Banner';
-import TheTeam2k24 from './TheTeam_2k24';
+import TheTeam2k25 from './TheTeam_2k25';
 import About from './About';
 import Contact from './Contact_2k24';
 import CallForPapers2k25 from './CallForPapers_2k25';
@@ -95,7 +95,7 @@ function App() {
                     Fifth Edition is live now
                   </div>
                   <About/>
-                  <TheTeam2k24/>
+                  <TheTeam2k25/>
                 </Route>
                 
                <Route exact path="/chalchitradarpan22_23">
