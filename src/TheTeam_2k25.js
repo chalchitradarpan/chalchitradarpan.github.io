@@ -44,7 +44,7 @@ const TheTeam2k25 = () => {
 				</Grid>
 				<Grid item xs={12} md={6} lg={4} className={styles.person}>
 					<span className={styles.image__block} >
-						<img className={styles.image} src="dummy_image.jpeg" alt="Niveditha"></img>
+						<img className={styles.image} src="dummy_image.jpg" alt="Niveditha"></img>
 					</span>
 					<span className={styles.name}>
 						Niveditha
@@ -55,7 +55,7 @@ const TheTeam2k25 = () => {
 				</Grid>
 				<Grid item xs={12} md={6} lg={4} className={styles.person}>
 					<span className={styles.image__block} >
-						<img className={styles.image} src="priyadarshini_editor.jpeg" alt="Priyadarshini"></img>
+						<img className={styles.image} src="priyadarshini_editor.jpg" alt="Priyadarshini"></img>
 					</span>
 					<span className={styles.name}>
 						Priyadarshini
@@ -66,7 +66,7 @@ const TheTeam2k25 = () => {
 				</Grid>
 				<Grid item xs={12} md={6} lg={4} className={styles.person}>
 					<span className={styles.image__block} >
-						<img className={styles.image} src="dummy_image.jpeg" alt="Ravneet"></img>
+						<img className={styles.image} src="dummy_image.jpg" alt="Ravneet"></img>
 					</span>
 					<span className={styles.name}>
 						Ravneet
@@ -76,7 +76,7 @@ const TheTeam2k25 = () => {
 					</span>
 				<Grid item xs={12} md={6} lg={4} className={styles.person}>
 					<span className={styles.image__block} >
-						<img className={styles.image} src="dummy_image.jpeg" alt="Irijaya"></img>
+						<img className={styles.image} src="dummy_image.jpg" alt="Irijaya"></img>
 					</span>
 					<span className={styles.name}>
 						Irijaya
@@ -87,7 +87,7 @@ const TheTeam2k25 = () => {
 				</Grid>
         <Grid item xs={12} md={6} lg={4} className={styles.person}>
 					<span className={styles.image__block} >
-						<img className={styles.image} src="dummy_image.jpeg" alt="Priyanka"></img>
+						<img className={styles.image} src="dummy_image.jpg" alt="Priyanka"></img>
 					</span>
 					<span className={styles.name}>
 						Priyanka
@@ -98,7 +98,7 @@ const TheTeam2k25 = () => {
 				</Grid>
 				<Grid item xs={12} md={6} lg={4} className={styles.person}>
 					<span className={styles.image__block} >
-						<img className={styles.image} src="dummy_image.jpeg" alt="Akriti"></img>
+						<img className={styles.image} src="dummy_image.jpg" alt="Akriti"></img>
 					</span>
 					<span className={styles.name}>
 						Akriti
@@ -109,7 +109,7 @@ const TheTeam2k25 = () => {
 				</Grid>
        <Grid item xs={12} md={6} lg={4} className={styles.person}>
 					<span className={styles.image__block} >
-						<img className={styles.image} src="dummy_image.jpeg" alt="Akriti"></img>
+						<img className={styles.image} src="dummy_image.jpg" alt="Akriti"></img>
 					</span>
 					<span className={styles.name}>
 						Akriti
@@ -120,7 +120,7 @@ const TheTeam2k25 = () => {
 				</Grid>
        <Grid item xs={12} md={6} lg={4} className={styles.person}>
 					<span className={styles.image__block} >
-						<img className={styles.image} src="dummy_image.jpeg" alt="Mahati"></img>
+						<img className={styles.image} src="dummy_image.jpg" alt="Mahati"></img>
 					</span>
 					<span className={styles.name}>
 						Mahati
@@ -131,7 +131,7 @@ const TheTeam2k25 = () => {
 				</Grid>
       <Grid item xs={12} md={6} lg={4} className={styles.person}>
 					<span className={styles.image__block} >
-						<img className={styles.image} src="dummy_image.jpeg" alt="Manya"></img>
+						<img className={styles.image} src="dummy_image.jpg" alt="Manya"></img>
 					</span>
 					<span className={styles.name}>
 						Manya
@@ -142,7 +142,7 @@ const TheTeam2k25 = () => {
 				</Grid>
     <Grid item xs={12} md={6} lg={4} className={styles.person}>
 					<span className={styles.image__block} >
-						<img className={styles.image} src="dummy_image.jpeg" alt="Ruchi"></img>
+						<img className={styles.image} src="dummy_image.jpg" alt="Ruchi"></img>
 					</span>
 					<span className={styles.name}>
 						Ruchi
